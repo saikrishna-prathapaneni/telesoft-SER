@@ -1,0 +1,15 @@
+# Ignore cache folders
+cache/
+*.cache
+
+# Ignore archive folders
+archives/
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore Python cache folder
+__pycache__/
+
+# Ignore .pt files
+*.pt

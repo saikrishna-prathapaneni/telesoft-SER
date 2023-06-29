@@ -3,7 +3,7 @@ cache/
 *.cache
 
 # Ignore archive folders
-archives/
+archive/
 *.zip
 *.tar.gz
 *.rar
